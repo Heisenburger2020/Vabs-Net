@@ -14,7 +14,7 @@ bash env.sh
 In this paper, we also proposed a new small molecule binding site dataset, which can be found in [BindingSiteDataset4VabsNet](https://huggingface.co/datasets/Heisenburger2000/BindingSiteDataset4VabsNet)
 
 ## version
-We found a slight difference for EC and GO evaluation and updated the re-evaluated results in the arxiv version. The bug occurred because there was an issue with the calculation of the f1max.
+We found a slight difference for EC and GO evaluation and updated the re-evaluated results in the arxiv version. The difference occurred because there was an issue with the calculation of the f1max.
 
 ## Example of reproduction
 
