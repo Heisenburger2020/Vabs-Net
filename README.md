@@ -32,10 +32,9 @@ bash reproduce_finetune.sh
 ## Cite
 If you want to cite this paper:
 ```bash
-@article{zhao2024multi,
-  title={Multi-level protein pre-training with Vabs-Net},
-  author={Zhao, Jiale and Zhuang, Wanru and Song, Jia and Li, Yaqi and Lu, Shuqi},
-  journal={arXiv preprint arXiv:2402.01481},
-  year={2024}
+@inproceedings{zhuangpre,
+  title={Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains},
+  author={Zhuang, Wanru and Song, Jia and Li, Yaqi and Lu, Shuqi and others},
+  booktitle={Forty-first International Conference on Machine Learning}
 }
 ```
