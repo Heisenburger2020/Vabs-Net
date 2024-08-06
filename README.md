@@ -2,7 +2,7 @@
 Vabs-Net: Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains
 
 The repository is an official implementation of [Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains](https://arxiv.org/abs/2402.01481)
-![Vabs-Net](./model.png)
+![poster](https://github.com/user-attachments/assets/06610d4d-2d67-437a-9324-c62470a8d58a)
 
 ## Environment installation
 
