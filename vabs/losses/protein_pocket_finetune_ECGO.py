@@ -66,7 +66,7 @@ class ECProteinftLoss(UnicoreLoss):
         if self.args.use_asl:
             self.loss = AsymmetricLossOptimized(gamma_neg=self.args.gamma_neg)
         else:
-            self.loss = RankLoss(gamma_neg=self.args.gamma_neg)
+            self.loss = RankLoss()
 
 
     def forward(self, model, sample, reduce=True):
